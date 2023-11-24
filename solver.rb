@@ -6,8 +6,10 @@ class Solver
   # @raise [StandardError] if the input is negative
   def factorial(num)
     raise StandardError, 'Input must be a non-negative integer' if num.negative?
+
     (1..num).reduce(1, :*)
   end
+
   # Reverses a given string
   #
   # @param word [String] The input string
@@ -15,6 +17,7 @@ class Solver
   def reverse(word)
     word.reverse
   end
+
   # Applies the FizzBuzz rules to a given number
   #
   # @param num [Integer] The input number
