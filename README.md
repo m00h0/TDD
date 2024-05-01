@@ -98,7 +98,7 @@ To install the project's dependencies, with:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/newtonah0/TDD/issues)
+Feel free to check the [issues page](https://github.com/m00h0/TDD/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
