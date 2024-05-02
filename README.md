@@ -60,7 +60,7 @@ Clone this repository to your desired folder:
 
 - Choose a directory
 - Open a Terminal
-- write: git clone git@github.com:jkanyi-web/TDD-Project.git
+- write: git clone https://github.com/m00h0/TDD.git
 - get into to directory "TDD-Project"
 - write: npm install
 
@@ -83,7 +83,7 @@ To install the project's dependencies, with:
 
 👤 **Ahmed**
 
-- GitHub: [@m00h0()](https://github.com/m00h0)  
+- GitHub: [@m00h0](https://github.com/m00h0)  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
