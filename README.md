@@ -81,6 +81,8 @@ To install the project's dependencies, with:
 
 👤 **Martin**
 
+- GitHub: [@Martin](https://github.com/martinkarugaba)
+
 👤 **Ahmed**
 
 - GitHub: [@m00h0](https://github.com/m00h0)  
