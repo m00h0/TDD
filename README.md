@@ -6,7 +6,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Enumerable\] ](#-enumerable-)
+- [📖 \[Enumerable\] ](#enumerable)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -23,7 +23,7 @@
 
 
 
-# 📖 [TDD-Project] <a name="about-project"></a>
+# 📖 [TDD-Project] <a name="enumerable"></a>
 
 **In this project I have implemented a class with some methods, but I've done it by doing test-driven development (TDD). 
 
