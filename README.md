@@ -91,7 +91,7 @@ To install the project's dependencies, with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
+- (Coming soon).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
