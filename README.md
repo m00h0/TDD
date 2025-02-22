@@ -5,7 +5,7 @@
 
 # 📗 Table of Contents
 
-- [📖 [Enumerable] ](#enumerable)
+- [📖 [Enumerable](#enumerable)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
